@@ -21,7 +21,7 @@
  * This file defines the current version of the core Moodle code being used.
  * This is compared against the values stored in the database to determine
  * whether upgrades should be performed (see lib/db/*.php)
- *
+ * RELEASE 1
  * @package    core
  * @copyright  1999 onwards Martin Dougiamas (http://dougiamas.com)
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
